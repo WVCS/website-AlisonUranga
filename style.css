@@ -1,3 +1,27 @@
+nav{
+  list-style-type: none;
+  background-color: #AB73A6; 
+  width: 100%;
+  position: fixed; 
+  top: 0;
+  left: 0;
+ 
+}
+li{ 
+display: inline;
+  padding: 10px; 
+  float: center; 
+}
+li:hover { 
+background-color: gold;
+}
+a{
+  text-decoration: none; 
+  color: white; 
+  letter-spacing: 10px;
+}
+
+
 body {
 
 }
