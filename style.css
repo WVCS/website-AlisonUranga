@@ -1,4 +1,5 @@
 nav{
+  list-style-type: none;
   background-color: #AB73A6; 
   width: 100%;
   position: fixed; 
