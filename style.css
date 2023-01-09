@@ -1,20 +1,3 @@
-body {
-background-color:  #E2CCF5;
-}
-
-h1 {
-  color: brown; 
-  font-family: "Garamond" ;
-  font-size: 40px;
- text-decoration-line: underline;
-  text-decoration-style: dotted; 
-   word-spacing: 3px;
-  text-shadow: 3px 3px 1px #F07FDD
-}
-img {width:200px;}
-img:hover {
-  transform: scaleX(-1);
-}
 nav{
   list-style-type: none;
   background-color: #AB73A6; 
@@ -22,18 +5,10 @@ nav{
   position: fixed; 
   top: 0;
   left: 0;
- 
 }
-li{ 
-display: inline;
-  padding: 10px; 
-  float: center; 
+
+body {
+background-color:  #E2CCF5;
 }
-li:hover { 
-background-color: gold;
-}
-a{
-  text-decoration: none; 
-  color: white; 
-  letter-spacing: 10px;
-}
+
+
