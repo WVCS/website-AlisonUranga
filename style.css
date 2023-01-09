@@ -1,3 +1,8 @@
+
+<body> {
+background-color:  #E2CCF5;
+}
+
 nav{
   list-style-type: none;
   background-color: #AB73A6; 
@@ -7,8 +12,6 @@ nav{
   left: 0;
 }
 
-body {
-background-color:  #E2CCF5;
-}
+</body>
 
 
