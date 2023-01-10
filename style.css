@@ -17,7 +17,8 @@ h1 { color: #C84185;
   word-spacing: 3px;} 
   
   h1 { margin-top: 200px;} 
-
+h1:hover {
+    transform: scaleX(-1); }
 
 img { width:"60"; height:"40"; border: dotted lightblue 7px }
   img { 
