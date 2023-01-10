@@ -1,17 +1,26 @@
-
-<body> {
-background-color:  #E2CCF5;
-}
-
-nav{
+<head> { 
+  nav{
   list-style-type: none;
   background-color: #AB73A6; 
   width: 100%;
   position: fixed; 
   top: 0;
-  left: 0;
+    left: 0; }
+  </head> 
+    
+<body> {
+background-color:  #E2CCF5;
 }
-img { down}
+h1 { color: ffc8dd; 
+  font-family: "Garamond" ;
+  font-size: 40px;
+ text-decoration-line: underline;
+  text-decoration-style: dotted; 
+  word-spacing: 3px;} 
+  
+  h1 { margin-top: 100px;} 
+
+
 img { width:"60"; height:"40"; border: dotted lightblue 7px }
   img { 
     width: 400px;
