@@ -1,8 +1,4 @@
-<head> { 
-
-  </head> 
-    
-<body> {
+body {
 background-color:  #E2CCF5;
 }
     nav{
@@ -27,6 +23,5 @@ img { width:"60"; height:"40"; border: dotted lightblue 7px }
   img { 
     width: 400px;
     margin-top: 200px; } 
-</body>
 
 
