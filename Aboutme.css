@@ -1,4 +1,4 @@
-body {
+body {{
 background-color:  #E2CCF5;
 }
 nav{
@@ -16,3 +16,5 @@ font-style: oblique;
 
 pre { margin-top: 70px;
 font-size: 30px;} 
+}
+img{ 
