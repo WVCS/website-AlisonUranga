@@ -17,4 +17,5 @@ font-style: oblique;
 pre { margin-top: 70px;
 font-size: 30px;} 
 }
-img{ 
+img{ width: 400px; 
+  height: 320px; } 
