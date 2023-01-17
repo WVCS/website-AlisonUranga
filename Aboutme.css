@@ -10,6 +10,9 @@ nav{
     left: 0; }
 
 h1 { margin-top: 200px;} 
-h1{font: Londria-sketch; }
+h1{font: Londria-sketch; 
+font-style: oblique;
+}
 
-pre { margin-top: 80px;} 
+pre { margin-top: 80px;
+font-size: 30px;} 
